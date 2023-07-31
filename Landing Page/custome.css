@@ -1,0 +1,41 @@
+.navbar{
+    background-color: white;
+}
+.navbar-brand{
+    color: #007bff;
+    font-weight: bold;
+}
+.nav-item{
+    padding-left: 25px;
+}
+.active{
+    color: #007bff;
+}
+.nav-link{
+    font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.nav-link:hover{
+    color: #007bff;
+}
+.home{
+    background-image: url("img/ic.jpg");
+    background-size: cover;
+    min-height: 60vh;
+}
+.title{
+    text-align: center;
+    color: #007bff;
+    font-weight: bold;
+}
+.center-text{
+    text-align: center;
+}
+#contact p i{
+    color: #007bff;
+}
+#footer p a {
+    text-decoration:none;
+    color: white;
+}
