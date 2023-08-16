@@ -1,0 +1,29 @@
+.offcanvas {
+    width: 250px;
+}
+
+.tableau {
+    text-decoration: none;
+    color: black;
+}
+
+.tableau:hover {
+    color: black;
+}
+
+.offcanvas-body ul {
+    list-style-type: none;
+}
+
+.offcanvas-body ul li {
+    padding: 10px;
+}
+
+.offcanvas-body li a {
+    text-decoration: none;
+    color: white;
+}
+
+.offcanvas-body ul li a:hover {
+    color: white;
+}
